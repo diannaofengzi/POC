@@ -1,8 +1,5 @@
----
-cover: >-
-  .gitbook/assets/Aliiice_a_lemon_cyberpunk_style_simple_vector_Pop_Art--no_text__a2a03d4c-4ca4-4777-b878-0d8660d625e2.png
-coverY: 0
----
+
+![](./assets/logo.png)
 
 # 🏠 HOME
 
@@ -12,10 +9,4 @@ CVE stands for Common Vulnerabilities and Exposures. It is a standardized system
 
 
 
-### Builder
-
-{% embed url="https://github.com/Sn0wAlice" %}
-Alice Snow Github
-{% endembed %}
-
-This gitbook is made with 💗 and cyberpunk dna 🧬
+This github is made with 💗 and cyberpunk dna 🧬
