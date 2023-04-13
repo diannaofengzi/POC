@@ -7401,6 +7401,7 @@
     * [CVE-2021-3560-WinMin.md](./2021/database/CVE-2021-3560/CVE-2021-3560-WinMin.md)
     * [CVE-2021-3560-n3onhacks.md](./2021/database/CVE-2021-3560/CVE-2021-3560-n3onhacks.md)
     * [bin4xin.github.io-Bin4xin.md](./2021/database/CVE-2021-3560/bin4xin.github.io-Bin4xin.md)
+    * [CVE-2021-3560-0dayNinja.md](./2021/database/CVE-2021-3560/CVE-2021-3560-0dayNinja.md)
     * [polkit-auto-exploit-aancw.md](./2021/database/CVE-2021-3560/polkit-auto-exploit-aancw.md)
     * [CVE-2021-3560-BizarreLove.md](./2021/database/CVE-2021-3560/CVE-2021-3560-BizarreLove.md)
     * [CVE-2021-3560_PoC-iSTARLabs.md](./2021/database/CVE-2021-3560/CVE-2021-3560_PoC-iSTARLabs.md)
