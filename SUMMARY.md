@@ -14,6 +14,10 @@
 ## 2021
 
 * [Database](./2021/database)
+  * [CVE-2021-23383](./2021/database/CVE-2021-23383)
+    * [Check-CVE-2021-23383-dn9uy3n.md](./2021/database/CVE-2021-23383/Check-CVE-2021-23383-dn9uy3n.md)
+  * [CVE-2021-23358](./2021/database/CVE-2021-23358)
+    * [Detection-script-for-cve-2021-23358-EkamSinghWalia.md](./2021/database/CVE-2021-23358/Detection-script-for-cve-2021-23358-EkamSinghWalia.md)
   * [CVE-2021-23132](./2021/database/CVE-2021-23132)
     * [CVE2021-23132-CyberCommands.md](./2021/database/CVE-2021-23132/CVE2021-23132-CyberCommands.md)
     * [CVE-2021-23132-HoangKien1020.md](./2021/database/CVE-2021-23132/CVE-2021-23132-HoangKien1020.md)
@@ -344,6 +348,12 @@
     * [CVE-2021-20038-SonicWall-RCE-vesperp.md](./2021/database/CVE-2021-20038/CVE-2021-20038-SonicWall-RCE-vesperp.md)
     * [badblood-jbaines-r7.md](./2021/database/CVE-2021-20038/badblood-jbaines-r7.md)
     * [nmap-scripts-S3ntinelX.md](./2021/database/CVE-2021-20038/nmap-scripts-S3ntinelX.md)
+  * [CVE-2021-2341](./2021/database/CVE-2021-2341)
+    * [msgpack-CVE-2021-23410-test-azu.md](./2021/database/CVE-2021-2341/msgpack-CVE-2021-23410-test-azu.md)
+  * [CVE-2021-2338](./2021/database/CVE-2021-2338)
+    * [Check-CVE-2021-23383-dn9uy3n.md](./2021/database/CVE-2021-2338/Check-CVE-2021-23383-dn9uy3n.md)
+  * [CVE-2021-2335](./2021/database/CVE-2021-2335)
+    * [Detection-script-for-cve-2021-23358-EkamSinghWalia.md](./2021/database/CVE-2021-2335/Detection-script-for-cve-2021-23358-EkamSinghWalia.md)
   * [CVE-2021-2302](./2021/database/CVE-2021-2302)
     * [CVE-2021-2302-quynhle7821.md](./2021/database/CVE-2021-2302/CVE-2021-2302-quynhle7821.md)
   * [CVE-2021-2301](./2021/database/CVE-2021-2301)
