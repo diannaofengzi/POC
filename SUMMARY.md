@@ -14,6 +14,16 @@
 ## 2021
 
 * [Database](./2021/database)
+  * [CVE-2021-25374](./2021/database/CVE-2021-25374)
+    * [CVE-2021-25374_Samsung-Account-Access-WithSecureLabs.md](./2021/database/CVE-2021-25374/CVE-2021-25374_Samsung-Account-Access-WithSecureLabs.md)
+  * [CVE-2021-25282](./2021/database/CVE-2021-25282)
+    * [CVE-2021-25281-Immersive-Labs-Sec.md](./2021/database/CVE-2021-25282/CVE-2021-25281-Immersive-Labs-Sec.md)
+  * [CVE-2021-25281](./2021/database/CVE-2021-25281)
+    * [CVE-2021-25281-Immersive-Labs-Sec.md](./2021/database/CVE-2021-25281/CVE-2021-25281-Immersive-Labs-Sec.md)
+  * [CVE-2021-25251](./2021/database/CVE-2021-25251)
+    * [for-trendmciro-Parasect-Team.md](./2021/database/CVE-2021-25251/for-trendmciro-Parasect-Team.md)
+  * [CVE-2021-25162](./2021/database/CVE-2021-25162)
+    * [CVE-2021-25162-twentybel0w.md](./2021/database/CVE-2021-25162/CVE-2021-25162-twentybel0w.md)
   * [CVE-2021-25094](./2021/database/CVE-2021-25094)
     * [CVE-2021-25094-xdx57.md](./2021/database/CVE-2021-25094/CVE-2021-25094-xdx57.md)
     * [CVE-2021-25094-tatsu-preauth-rce-darkpills.md](./2021/database/CVE-2021-25094/CVE-2021-25094-tatsu-preauth-rce-darkpills.md)
