@@ -14,6 +14,14 @@
 ## 2021
 
 * [Database](./2021/database)
+  * [CVE-2021-1311](./2021/database/CVE-2021-1311)
+    * [xerces-3.2.3-DTD-hotfix-johnjamesmccann.md](./2021/database/CVE-2021-1311/xerces-3.2.3-DTD-hotfix-johnjamesmccann.md)
+  * [CVE-2021-1235](./2021/database/CVE-2021-1235)
+    * [CVE-2021-40513-war4uthor.md](./2021/database/CVE-2021-1235/CVE-2021-40513-war4uthor.md)
+    * [CVE-2021-40514-war4uthor.md](./2021/database/CVE-2021-1235/CVE-2021-40514-war4uthor.md)
+    * [CVE-2021-40512-war4uthor.md](./2021/database/CVE-2021-1235/CVE-2021-40512-war4uthor.md)
+  * [CVE-2021-1112](./2021/database/CVE-2021-1112)
+    * [cve-2021-11123-chenanu123.md](./2021/database/CVE-2021-1112/cve-2021-11123-chenanu123.md)
   * [CVE-2021-1056](./2021/database/CVE-2021-1056)
     * [CVE-2021-1056-pokerfaceSad.md](./2021/database/CVE-2021-1056/CVE-2021-1056-pokerfaceSad.md)
   * [CVE-2021-1008](./2021/database/CVE-2021-1008)
