@@ -14,6 +14,14 @@
 ## 2021
 
 * [Database](./2021/database)
+  * [CVE-2021-28378](./2021/database/CVE-2021-28378)
+    * [CVE-2021-28378-pandatix.md](./2021/database/CVE-2021-28378/CVE-2021-28378-pandatix.md)
+  * [CVE-2021-28312](./2021/database/CVE-2021-28312)
+    * [CVE-2021-28312-shubham0d.md](./2021/database/CVE-2021-28312/CVE-2021-28312-shubham0d.md)
+  * [CVE-2021-28310](./2021/database/CVE-2021-28310)
+    * [IOC_for_CVE-2021-28310-Rafael-Svechinskaya.md](./2021/database/CVE-2021-28310/IOC_for_CVE-2021-28310-Rafael-Svechinskaya.md)
+  * [CVE-2021-28079](./2021/database/CVE-2021-28079)
+    * [CVE-2021-28079-g33xter.md](./2021/database/CVE-2021-28079/CVE-2021-28079-g33xter.md)
   * [CVE-2021-27965](./2021/database/CVE-2021-27965)
     * [CVE-2021-27965-Exploitables.md](./2021/database/CVE-2021-27965/CVE-2021-27965-Exploitables.md)
     * [CVE-2021-27965-mathisvickie.md](./2021/database/CVE-2021-27965/CVE-2021-27965-mathisvickie.md)
