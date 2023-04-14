@@ -14,6 +14,8 @@
 ## 2021
 
 * [Database](./2021/database)
+  * [CVE-2021-24347](./2021/database/CVE-2021-24347)
+    * [CVE-2021-24347--huydoppa.md](./2021/database/CVE-2021-24347/CVE-2021-24347--huydoppa.md)
   * [CVE-2021-24307](./2021/database/CVE-2021-24307)
     * [CVE-2021-24307-all-in-one-seo-pack-admin-rce-darkpills.md](./2021/database/CVE-2021-24307/CVE-2021-24307-all-in-one-seo-pack-admin-rce-darkpills.md)
   * [CVE-2021-24212](./2021/database/CVE-2021-24212)
@@ -378,6 +380,8 @@
     * [CVE-2021-20038-SonicWall-RCE-vesperp.md](./2021/database/CVE-2021-20038/CVE-2021-20038-SonicWall-RCE-vesperp.md)
     * [badblood-jbaines-r7.md](./2021/database/CVE-2021-20038/badblood-jbaines-r7.md)
     * [nmap-scripts-S3ntinelX.md](./2021/database/CVE-2021-20038/nmap-scripts-S3ntinelX.md)
+  * [CVE-2021-2434](./2021/database/CVE-2021-2434)
+    * [CVE-2021-24347--huydoppa.md](./2021/database/CVE-2021-2434/CVE-2021-24347--huydoppa.md)
   * [CVE-2021-2430](./2021/database/CVE-2021-2430)
     * [CVE-2021-24307-all-in-one-seo-pack-admin-rce-darkpills.md](./2021/database/CVE-2021-2430/CVE-2021-24307-all-in-one-seo-pack-admin-rce-darkpills.md)
   * [CVE-2021-2421](./2021/database/CVE-2021-2421)
