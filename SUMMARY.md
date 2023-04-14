@@ -14,6 +14,17 @@
 ## 2021
 
 * [Database](./2021/database)
+  * [CVE-2021-25094](./2021/database/CVE-2021-25094)
+    * [CVE-2021-25094-xdx57.md](./2021/database/CVE-2021-25094/CVE-2021-25094-xdx57.md)
+    * [CVE-2021-25094-tatsu-preauth-rce-darkpills.md](./2021/database/CVE-2021-25094/CVE-2021-25094-tatsu-preauth-rce-darkpills.md)
+    * [TypeHub-Exploiter-experimentalcrow1.md](./2021/database/CVE-2021-25094/TypeHub-Exploiter-experimentalcrow1.md)
+    * [typehub-exploiter-TUANB4DUT.md](./2021/database/CVE-2021-25094/typehub-exploiter-TUANB4DUT.md)
+  * [CVE-2021-25078](./2021/database/CVE-2021-25078)
+    * [PocList-1n7erface.md](./2021/database/CVE-2021-25078/PocList-1n7erface.md)
+  * [CVE-2021-25076](./2021/database/CVE-2021-25076)
+    * [CVE-2021-25076-0xAbbarhSF.md](./2021/database/CVE-2021-25076/CVE-2021-25076-0xAbbarhSF.md)
+  * [CVE-2021-25003](./2021/database/CVE-2021-25003)
+    * [CVE-2021-25003-biulove0x.md](./2021/database/CVE-2021-25003/CVE-2021-25003-biulove0x.md)
   * [CVE-2021-24884](./2021/database/CVE-2021-24884)
     * [CVE-2021-24884-S1lkys.md](./2021/database/CVE-2021-24884/CVE-2021-24884-S1lkys.md)
   * [CVE-2021-24807](./2021/database/CVE-2021-24807)
