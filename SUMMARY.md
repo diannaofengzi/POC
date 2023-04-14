@@ -14,6 +14,9 @@
 ## 2021
 
 * [Database](./2021/database)
+  * [CVE-2021-20717](./2021/database/CVE-2021-20717)
+    * [CVE-2021-20717-s-index.md](./2021/database/CVE-2021-20717/CVE-2021-20717-s-index.md)
+    * [poc-list-s-index.md](./2021/database/CVE-2021-20717/poc-list-s-index.md)
   * [CVE-2021-20323](./2021/database/CVE-2021-20323)
     * [CVE-2021-20323-ndmalc.md](./2021/database/CVE-2021-20323/CVE-2021-20323-ndmalc.md)
   * [CVE-2021-20294](./2021/database/CVE-2021-20294)
@@ -39,6 +42,12 @@
     * [CVE-2021-20038-SonicWall-RCE-vesperp.md](./2021/database/CVE-2021-20038/CVE-2021-20038-SonicWall-RCE-vesperp.md)
     * [badblood-jbaines-r7.md](./2021/database/CVE-2021-20038/badblood-jbaines-r7.md)
     * [nmap-scripts-S3ntinelX.md](./2021/database/CVE-2021-20038/nmap-scripts-S3ntinelX.md)
+  * [CVE-2021-2075](./2021/database/CVE-2021-2075)
+    * [weblogic2021-somatrasss.md](./2021/database/CVE-2021-2075/weblogic2021-somatrasss.md)
+  * [CVE-2021-2071](./2021/database/CVE-2021-2071)
+    * [CVE-2021-20717-s-index.md](./2021/database/CVE-2021-2071/CVE-2021-20717-s-index.md)
+  * [CVE-2021-2064](./2021/database/CVE-2021-2064)
+    * [weblogic2021-somatrasss.md](./2021/database/CVE-2021-2064/weblogic2021-somatrasss.md)
   * [CVE-2021-2047](./2021/database/CVE-2021-2047)
     * [weblogic2021-somatrasss.md](./2021/database/CVE-2021-2047/weblogic2021-somatrasss.md)
   * [CVE-2021-2032](./2021/database/CVE-2021-2032)

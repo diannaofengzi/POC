@@ -119,3 +119,7 @@ All the POC for the CVE of the year
 * [CVE-2021-2032](https://zeste.alice-snow.ru/2021/database/cve-2021-2032)
 * [CVE-2021-20323](https://zeste.alice-snow.ru/2021/database/cve-2021-20323)
 * [CVE-2021-2047](https://zeste.alice-snow.ru/2021/database/cve-2021-2047)
+* [CVE-2021-2064](https://zeste.alice-snow.ru/2021/database/cve-2021-2064)
+* [CVE-2021-2071](https://zeste.alice-snow.ru/2021/database/cve-2021-2071)
+* [CVE-2021-20717](https://zeste.alice-snow.ru/2021/database/cve-2021-20717)
+* [CVE-2021-2075](https://zeste.alice-snow.ru/2021/database/cve-2021-2075)
