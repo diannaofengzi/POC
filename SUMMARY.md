@@ -5634,6 +5634,8 @@
     * [openam-CVE-2021-35464-Y4er.md](./databases/2021/database/CVE-2021-35464/openam-CVE-2021-35464-Y4er.md)
   * [CVE-2021-35296](./databases/2021/database/CVE-2021-35296/README.md)
     * [CVE-2021-35296-afaq1337.md](./databases/2021/database/CVE-2021-35296/CVE-2021-35296-afaq1337.md)
+  * [CVE-2021-35250](./databases/2021/database/CVE-2021-35250/README.md)
+    * [SolarWinds-CVE-2021-35250-rissor41.md](./databases/2021/database/CVE-2021-35250/SolarWinds-CVE-2021-35250-rissor41.md)
   * [CVE-2021-35215](./databases/2021/database/CVE-2021-35215/README.md)
     * [CVE-2021-35215-Y4er.md](./databases/2021/database/CVE-2021-35215/CVE-2021-35215-Y4er.md)
   * [CVE-2021-35211](./databases/2021/database/CVE-2021-35211/README.md)
