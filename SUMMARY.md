@@ -5984,6 +5984,7 @@
     * [CVE-2021-29447-dnr6419.md](./databases/2021/database/CVE-2021-29447/CVE-2021-29447-dnr6419.md)
     * [CVE-2021-29447-Abdulazizalsewedy.md](./databases/2021/database/CVE-2021-29447/CVE-2021-29447-Abdulazizalsewedy.md)
     * [blind-xxe-controller-CVE-2021-29447-elf1337.md](./databases/2021/database/CVE-2021-29447/blind-xxe-controller-CVE-2021-29447-elf1337.md)
+    * [cve-2021-29447-zeroch1ll.md](./databases/2021/database/CVE-2021-29447/cve-2021-29447-zeroch1ll.md)
     * [CVE-2021-29447-POC-b-abderrahmane.md](./databases/2021/database/CVE-2021-29447/CVE-2021-29447-POC-b-abderrahmane.md)
     * [exploit_cve-2021-29447-mega8bit.md](./databases/2021/database/CVE-2021-29447/exploit_cve-2021-29447-mega8bit.md)
     * [CVE-2021-29447-motikan2010.md](./databases/2021/database/CVE-2021-29447/CVE-2021-29447-motikan2010.md)
