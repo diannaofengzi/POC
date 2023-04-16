@@ -4364,6 +4364,7 @@
     * [CVE-2022-0739-Ki11i0n4ir3.md](./databases/2022/database/CVE-2022-0739/CVE-2022-0739-Ki11i0n4ir3.md)
     * [CVE-2022-0739-BKreisel.md](./databases/2022/database/CVE-2022-0739/CVE-2022-0739-BKreisel.md)
     * [wp_bookingpress_1.0.11-hadrian3689.md](./databases/2022/database/CVE-2022-0739/wp_bookingpress_1.0.11-hadrian3689.md)
+    * [Bash-exploit-for-CVE-2022-0739-lhamouche.md](./databases/2022/database/CVE-2022-0739/Bash-exploit-for-CVE-2022-0739-lhamouche.md)
     * [CVE-2022-0739-viardant.md](./databases/2022/database/CVE-2022-0739/CVE-2022-0739-viardant.md)
     * [Bash-exploit-for-CVE-2022-0739-luxel-h.md](./databases/2022/database/CVE-2022-0739/Bash-exploit-for-CVE-2022-0739-luxel-h.md)
   * [CVE-2022-0725](./databases/2022/database/CVE-2022-0725/README.md)
