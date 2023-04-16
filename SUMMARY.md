@@ -3978,6 +3978,7 @@
     * [cve-2022-21882-poc-sailay1996.md](./databases/2022/database/CVE-2022-2022/cve-2022-21882-poc-sailay1996.md)
     * [HTTP3-attacks-efchatz.md](./databases/2022/database/CVE-2022-2022/HTTP3-attacks-efchatz.md)
     * [Webmin-CVE-2022-0824-revshell-faisalfs10x.md](./databases/2022/database/CVE-2022-2022/Webmin-CVE-2022-0824-revshell-faisalfs10x.md)
+    * [CVE-2022-1388-EXP-doocop.md](./databases/2022/database/CVE-2022-2022/CVE-2022-1388-EXP-doocop.md)
     * [CVE-2022-21882-L4ys.md](./databases/2022/database/CVE-2022-2022/CVE-2022-21882-L4ys.md)
     * [cve-2022-31705-s0duku.md](./databases/2022/database/CVE-2022-2022/cve-2022-31705-s0duku.md)
     * [CVE-2022-0847-DirtyPipe-Exploit-Arinerron.md](./databases/2022/database/CVE-2022-2022/CVE-2022-0847-DirtyPipe-Exploit-Arinerron.md)
