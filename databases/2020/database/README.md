@@ -995,3 +995,4 @@ All the POC for the CVE of the year
 * [CVE-2020-9992](https://zeste.alice-snow.ru/2020/database/cve-2020-9992)
 * [CVE-2020-9999](https://zeste.alice-snow.ru/2020/database/cve-2020-9999)
 * [CVE-2020-21514](https://zeste.alice-snow.ru/2020/database/cve-2020-21514)
+* [CVE-2020-29007](https://zeste.alice-snow.ru/2020/database/cve-2020-29007)

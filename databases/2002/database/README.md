@@ -18,3 +18,4 @@ All the POC for the CVE of the year
 * [CVE-2002-2002](https://zeste.alice-snow.ru/2002/database/cve-2002-2002)
 * [CVE-2002-2202](https://zeste.alice-snow.ru/2002/database/cve-2002-2202)
 * [CVE-2002-2420](https://zeste.alice-snow.ru/2002/database/cve-2002-2420)
+* [CVE-2002-2023](https://zeste.alice-snow.ru/2002/database/cve-2002-2023)
