@@ -4483,6 +4483,8 @@
     * [Bash-exploit-for-CVE-2022-0739-luxel-h.md](./databases/2022/database/CVE-2022-0739/Bash-exploit-for-CVE-2022-0739-luxel-h.md)
   * [CVE-2022-0725](./databases/2022/database/CVE-2022-0725/README.md)
     * [keepass_poc-ByteHackr.md](./databases/2022/database/CVE-2022-0725/keepass_poc-ByteHackr.md)
+  * [CVE-2022-0687](./databases/2022/database/CVE-2022-0687/README.md)
+    * [BUG_WEB-qerogram.md](./databases/2022/database/CVE-2022-0687/BUG_WEB-qerogram.md)
   * [CVE-2022-0666](./databases/2022/database/CVE-2022-0666/README.md)
     * [CVE-2022-0666-d4rkduck.md](./databases/2022/database/CVE-2022-0666/CVE-2022-0666-d4rkduck.md)
   * [CVE-2022-0586](./databases/2022/database/CVE-2022-0586/README.md)
