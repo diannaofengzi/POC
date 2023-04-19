@@ -254,6 +254,8 @@
     * [CVE-2023-21608-Malwareman007.md](./databases/2023/database/CVE-2023-21608/CVE-2023-21608-Malwareman007.md)
   * [CVE-2023-21554](./databases/2023/database/CVE-2023-21554/README.md)
     * [CVE-2023-21554-RCE-durte.md](./databases/2023/database/CVE-2023-21554/CVE-2023-21554-RCE-durte.md)
+    * [CVE-2023-21554-RCE-C3r7.md](./databases/2023/database/CVE-2023-21554/CVE-2023-21554-RCE-C3r7.md)
+    * [PoC-CVE-2023-21554-Hashi0x.md](./databases/2023/database/CVE-2023-21554/PoC-CVE-2023-21554-Hashi0x.md)
     * [CVE-2023-21554-QueueJumper-xhshes.md](./databases/2023/database/CVE-2023-21554/CVE-2023-21554-QueueJumper-xhshes.md)
     * [CVE-2023-21554-RCE-C00k3rbkr.md](./databases/2023/database/CVE-2023-21554/CVE-2023-21554-RCE-C00k3rbkr.md)
   * [CVE-2023-21036](./databases/2023/database/CVE-2023-21036/README.md)
