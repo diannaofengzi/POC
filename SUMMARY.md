@@ -90,6 +90,7 @@
   * [CVE-2023-25136](./databases/2023/database/CVE-2023-25136/README.md)
     * [CVE-2023-25136-ticofookfook.md](./databases/2023/database/CVE-2023-25136/CVE-2023-25136-ticofookfook.md)
     * [CVE-2023-25136-Christbowel.md](./databases/2023/database/CVE-2023-25136/CVE-2023-25136-Christbowel.md)
+    * [CVE-2023-25136-adhikara13.md](./databases/2023/database/CVE-2023-25136/CVE-2023-25136-adhikara13.md)
     * [jfrog-CVE-2023-25136-OpenSSH_Double-Free-jfrog.md](./databases/2023/database/CVE-2023-25136/jfrog-CVE-2023-25136-OpenSSH_Double-Free-jfrog.md)
   * [CVE-2023-24998](./databases/2023/database/CVE-2023-24998/README.md)
     * [CVE-2023-24998-nice1st.md](./databases/2023/database/CVE-2023-24998/CVE-2023-24998-nice1st.md)
