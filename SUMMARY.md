@@ -2858,6 +2858,8 @@
     * [cve-2022-3786-plharraud.md](./databases/2022/database/CVE-2022-3786/cve-2022-3786-plharraud.md)
     * [cve-2022-3602-and-cve-2022-3786-openssl-poc-rbowes-r7.md](./databases/2022/database/CVE-2022-3786/cve-2022-3602-and-cve-2022-3786-openssl-poc-rbowes-r7.md)
     * [certscare-openssl3-exploit-micr0sh0ft.md](./databases/2022/database/CVE-2022-3786/certscare-openssl3-exploit-micr0sh0ft.md)
+  * [CVE-2022-3782](./databases/2022/database/CVE-2022-3782/README.md)
+    * [CVE-2022-34527_D-Link_DSL-3782_Router_command_injection-FzBacon.md](./databases/2022/database/CVE-2022-3782/CVE-2022-34527_D-Link_DSL-3782_Router_command_injection-FzBacon.md)
   * [CVE-2022-3770](./databases/2022/database/CVE-2022-3770/README.md)
     * [CVE-2022-37703-MaherAzzouzi.md](./databases/2022/database/CVE-2022-3770/CVE-2022-37703-MaherAzzouzi.md)
     * [CVE-2022-37706-LPE-exploit-MaherAzzouzi.md](./databases/2022/database/CVE-2022-3770/CVE-2022-37706-LPE-exploit-MaherAzzouzi.md)
