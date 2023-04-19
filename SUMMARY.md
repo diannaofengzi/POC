@@ -338,6 +338,8 @@
     * [CVE-2023-0297-Small-ears.md](./databases/2023/database/CVE-2023-0297/CVE-2023-0297-Small-ears.md)
   * [CVE-2023-0286](./databases/2023/database/CVE-2023-0286/README.md)
     * [OPENSSL_1.1.11g_G3_CVE-2023-0286-nidhi7598.md](./databases/2023/database/CVE-2023-0286/OPENSSL_1.1.11g_G3_CVE-2023-0286-nidhi7598.md)
+  * [CVE-2023-0215](./databases/2023/database/CVE-2023-0215/README.md)
+    * [OPENSSL_1.0.2_G2.5_CVE-2023-0215-nidhi7598.md](./databases/2023/database/CVE-2023-0215/OPENSSL_1.0.2_G2.5_CVE-2023-0215-nidhi7598.md)
   * [CVE-2023-0179](./databases/2023/database/CVE-2023-0179/README.md)
     * [CVE-2023-0179-PoC-TurtleARM.md](./databases/2023/database/CVE-2023-0179/CVE-2023-0179-PoC-TurtleARM.md)
     * [CVE-2023-0179-PoC-H4K6.md](./databases/2023/database/CVE-2023-0179/CVE-2023-0179-PoC-H4K6.md)
