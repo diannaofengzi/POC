@@ -2488,6 +2488,8 @@
     * [frameworks_base_AOSP10_r33_CVE-2022-20004-Trinadh465.md](./databases/2022/database/CVE-2022-20004/frameworks_base_AOSP10_r33_CVE-2022-20004-Trinadh465.md)
   * [CVE-2022-4939](./databases/2022/database/CVE-2022-4939/README.md)
     * [PoC-CVE-2022-4939--BaconCriCRi.md](./databases/2022/database/CVE-2022-4939/PoC-CVE-2022-4939--BaconCriCRi.md)
+  * [CVE-2022-4847](./databases/2022/database/CVE-2022-4847/README.md)
+    * [CVE-2022-48474_CVE-2022-48475-sapellaniz.md](./databases/2022/database/CVE-2022-4847/CVE-2022-48474_CVE-2022-48475-sapellaniz.md)
   * [CVE-2022-4831](./databases/2022/database/CVE-2022-4831/README.md)
     * [CVE-2022-48311-swzhouu.md](./databases/2022/database/CVE-2022-4831/CVE-2022-48311-swzhouu.md)
     * [CVE-2022-48309-and-CVE-2022-48310-nitschSB.md](./databases/2022/database/CVE-2022-4831/CVE-2022-48309-and-CVE-2022-48310-nitschSB.md)
