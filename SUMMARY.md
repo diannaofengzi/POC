@@ -216,6 +216,7 @@
     * [CVE-2023-22432-aeyesec.md](./databases/2023/database/CVE-2023-22432/CVE-2023-22432-aeyesec.md)
   * [CVE-2023-21839](./databases/2023/database/CVE-2023-21839/README.md)
     * [POC_CVE-2023-21839-houqe.md](./databases/2023/database/CVE-2023-21839/POC_CVE-2023-21839-houqe.md)
+    * [Weblogic-gobysec.md](./databases/2023/database/CVE-2023-21839/Weblogic-gobysec.md)
     * [CVE-2023-21839-Firebasky.md](./databases/2023/database/CVE-2023-21839/CVE-2023-21839-Firebasky.md)
     * [CVE-2023-21839-hacats.md](./databases/2023/database/CVE-2023-21839/CVE-2023-21839-hacats.md)
     * [CVE-2023-21839-fakenews2025.md](./databases/2023/database/CVE-2023-21839/CVE-2023-21839-fakenews2025.md)
