@@ -598,6 +598,7 @@
     * [text4shell-cve-2022-42889-devenes.md](./databases/2022/database/CVE-2022-42889/text4shell-cve-2022-42889-devenes.md)
     * [CVE-2022-42889-west-wind.md](./databases/2022/database/CVE-2022-42889/CVE-2022-42889-west-wind.md)
     * [Text4shell-exploit-pwnb0y.md](./databases/2022/database/CVE-2022-42889/Text4shell-exploit-pwnb0y.md)
+    * [cve-2022-42889-text4shell-Dima2021.md](./databases/2022/database/CVE-2022-42889/cve-2022-42889-text4shell-Dima2021.md)
     * [Apache-Commons-Text-CVE-2022-42889-0xmaximus.md](./databases/2022/database/CVE-2022-42889/Apache-Commons-Text-CVE-2022-42889-0xmaximus.md)
     * [CVE-2022-42889-Hack4rLIFE.md](./databases/2022/database/CVE-2022-42889/CVE-2022-42889-Hack4rLIFE.md)
     * [CVE-2022-42889-PoC-SeanWrightSec.md](./databases/2022/database/CVE-2022-42889/CVE-2022-42889-PoC-SeanWrightSec.md)
