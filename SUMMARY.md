@@ -58,6 +58,8 @@
   * [CVE-2023-27532](./databases/2023/database/CVE-2023-27532/README.md)
     * [CVE-2023-27532-sfewer-r7.md](./databases/2023/database/CVE-2023-27532/CVE-2023-27532-sfewer-r7.md)
     * [CVE-2023-27532-horizon3ai.md](./databases/2023/database/CVE-2023-27532/CVE-2023-27532-horizon3ai.md)
+  * [CVE-2023-27216](./databases/2023/database/CVE-2023-27216/README.md)
+    * [CVE-2023-27216_D-Link_DSL-3782_Router_command_injection-FzBacon.md](./databases/2023/database/CVE-2023-27216/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection-FzBacon.md)
   * [CVE-2023-27100](./databases/2023/database/CVE-2023-27100/README.md)
     * [CVE-2023-27100-DarokNET.md](./databases/2023/database/CVE-2023-27100/CVE-2023-27100-DarokNET.md)
   * [CVE-2023-26984](./databases/2023/database/CVE-2023-26984/README.md)
