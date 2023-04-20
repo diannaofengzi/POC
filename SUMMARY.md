@@ -1081,6 +1081,8 @@
   * [CVE-2022-34169](./databases/2022/database/CVE-2022-34169/README.md)
     * [CVE-2022-34169-bor8.md](./databases/2022/database/CVE-2022-34169/CVE-2022-34169-bor8.md)
     * [AutoGenerateXalanPayload-flowerwind.md](./databases/2022/database/CVE-2022-34169/AutoGenerateXalanPayload-flowerwind.md)
+  * [CVE-2022-34024](./databases/2022/database/CVE-2022-34024/README.md)
+    * [bug_report-sorabug.md](./databases/2022/database/CVE-2022-34024/bug_report-sorabug.md)
   * [CVE-2022-33980](./databases/2022/database/CVE-2022-33980/README.md)
     * [CVE-2022-33980-Apache-Commons-Configuration-RCE-tangxiaofeng7.md](./databases/2022/database/CVE-2022-33980/CVE-2022-33980-Apache-Commons-Configuration-RCE-tangxiaofeng7.md)
     * [CVE-2022-33980-POC-sammwyy.md](./databases/2022/database/CVE-2022-33980/CVE-2022-33980-POC-sammwyy.md)
