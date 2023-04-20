@@ -6022,6 +6022,8 @@
     * [CVE-2021-31702-l00neyhacker.md](./databases/2021/database/CVE-2021-31702/CVE-2021-31702-l00neyhacker.md)
   * [CVE-2021-31630](./databases/2021/database/CVE-2021-31630/README.md)
     * [CVE-2021-31630-OpenPLC_RCE-h3v0x.md](./databases/2021/database/CVE-2021-31630/CVE-2021-31630-OpenPLC_RCE-h3v0x.md)
+  * [CVE-2021-31589](./databases/2021/database/CVE-2021-31589/README.md)
+    * [CVE-2021-31589-karthi-the-hacker.md](./databases/2021/database/CVE-2021-31589/CVE-2021-31589-karthi-the-hacker.md)
   * [CVE-2021-31207](./databases/2021/database/CVE-2021-31207/README.md)
     * [ProxyShell_POC-mithridates1313.md](./databases/2021/database/CVE-2021-31207/ProxyShell_POC-mithridates1313.md)
     * [proxyshell-auto-Udyz.md](./databases/2021/database/CVE-2021-31207/proxyshell-auto-Udyz.md)
