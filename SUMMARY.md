@@ -233,6 +233,7 @@
   * [CVE-2023-21768](./databases/2023/database/CVE-2023-21768/README.md)
     * [nullmap-SamuelTulach.md](./databases/2023/database/CVE-2023-21768/nullmap-SamuelTulach.md)
     * [Windows_LPE_AFD_CVE-2023-21768-chompie1337.md](./databases/2023/database/CVE-2023-21768/Windows_LPE_AFD_CVE-2023-21768-chompie1337.md)
+    * [CVE-2023-21768-AFD-for-WinSock-EoP-exploit-zoemurmure.md](./databases/2023/database/CVE-2023-21768/CVE-2023-21768-AFD-for-WinSock-EoP-exploit-zoemurmure.md)
     * [CVE-2023-21768-Malwareman007.md](./databases/2023/database/CVE-2023-21768/CVE-2023-21768-Malwareman007.md)
     * [CVE-2023-21768-h1bAna.md](./databases/2023/database/CVE-2023-21768/CVE-2023-21768-h1bAna.md)
     * [Windows_AFD_LPE_CVE-2023-21768-HKxiaoli.md](./databases/2023/database/CVE-2023-21768/Windows_AFD_LPE_CVE-2023-21768-HKxiaoli.md)
