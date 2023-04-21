@@ -87,6 +87,8 @@
     * [CVE-2023-25261-trustcves.md](./databases/2023/database/CVE-2023-25261/CVE-2023-25261-trustcves.md)
   * [CVE-2023-25260](./databases/2023/database/CVE-2023-25260/README.md)
     * [CVE-2023-25260-trustcves.md](./databases/2023/database/CVE-2023-25260/CVE-2023-25260-trustcves.md)
+  * [CVE-2023-25234](./databases/2023/database/CVE-2023-25234/README.md)
+    * [CVE-2023-25234_Tenda_AC6_stack_overflow-FzBacon.md](./databases/2023/database/CVE-2023-25234/CVE-2023-25234_Tenda_AC6_stack_overflow-FzBacon.md)
   * [CVE-2023-25194](./databases/2023/database/CVE-2023-25194/README.md)
     * [CVE-2023-25194-ohnonoyesyes.md](./databases/2023/database/CVE-2023-25194/CVE-2023-25194-ohnonoyesyes.md)
   * [CVE-2023-25136](./databases/2023/database/CVE-2023-25136/README.md)
