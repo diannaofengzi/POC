@@ -230,6 +230,8 @@
     * [weblogic-framework-dream0x01.md](./databases/2023/database/CVE-2023-21839/weblogic-framework-dream0x01.md)
   * [CVE-2023-21837](./databases/2023/database/CVE-2023-21837/README.md)
     * [CVE-2023-21837-hktalent.md](./databases/2023/database/CVE-2023-21837/CVE-2023-21837-hktalent.md)
+  * [CVE-2023-21823](./databases/2023/database/CVE-2023-21823/README.md)
+    * [CVE-2023-21823-Elizarfish.md](./databases/2023/database/CVE-2023-21823/CVE-2023-21823-Elizarfish.md)
   * [CVE-2023-21768](./databases/2023/database/CVE-2023-21768/README.md)
     * [nullmap-SamuelTulach.md](./databases/2023/database/CVE-2023-21768/nullmap-SamuelTulach.md)
     * [Windows_LPE_AFD_CVE-2023-21768-chompie1337.md](./databases/2023/database/CVE-2023-21768/Windows_LPE_AFD_CVE-2023-21768-chompie1337.md)
