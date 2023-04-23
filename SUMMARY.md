@@ -7808,6 +7808,7 @@
     * [CVE-2021-3156-plus-Rvn0xsy.md](./databases/2021/database/CVE-2021-3156/CVE-2021-3156-plus-Rvn0xsy.md)
     * [ScannerCVE-2021-3156-SantiagoSerrao.md](./databases/2021/database/CVE-2021-3156/ScannerCVE-2021-3156-SantiagoSerrao.md)
     * [CVE-2021-3156-Exodusro.md](./databases/2021/database/CVE-2021-3156/CVE-2021-3156-Exodusro.md)
+    * [clif-0x4ndy.md](./databases/2021/database/CVE-2021-3156/clif-0x4ndy.md)
     * [CVE-2021-3156-CyberCommands.md](./databases/2021/database/CVE-2021-3156/CVE-2021-3156-CyberCommands.md)
     * [CVE-2021-3156-d3c3ptic0n.md](./databases/2021/database/CVE-2021-3156/CVE-2021-3156-d3c3ptic0n.md)
     * [cve2021-3156-sudo-heap-overflow-Jauler.md](./databases/2021/database/CVE-2021-3156/cve2021-3156-sudo-heap-overflow-Jauler.md)
